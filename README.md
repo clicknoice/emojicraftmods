@@ -17,6 +17,7 @@
   * CC: Tweaked
   * Advanced Peripherals
   * Ender IO
+  * Cyclic
 
 ## Dimensions
   * Twilight Forest
