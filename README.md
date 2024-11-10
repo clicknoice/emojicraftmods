@@ -17,12 +17,18 @@
   * CC: Tweaked
   * Advanced Peripherals
 
+## Weaponry and Armor
+  * Simply Swords
+  * Better Combat
+
 ## Adventure and Exploration
   * Yungs full suite (excluding caves)
   * Alex's Mobs
   * Cataclysm
   * Artifacts
   * Lootr
+  * Biomes o Plenty
+  * Structory
 
 ## Utility and QoL
   * Cooking for Blockheads
@@ -37,10 +43,15 @@
   * Training Dummy
   * Clumps
   * FTB suite
+  * Luggage
+  * Fast Furnace
+  * Fast Workbench
+  * 3D Skin Layers
 
 ## Storage
   * Sophisticated Storage
   * Sophisticated Backpacks
+  * Storage Drawers
 
 ## Decorative Blocks
   * Rechiseled
@@ -48,6 +59,8 @@
   * Supplementaries
   * Amendments
   * Chipped
+  * Handcrafted
 
 ## Transportation
   * Waystones
+  * Elevators (both entity and block)
