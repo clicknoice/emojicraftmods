@@ -18,6 +18,9 @@
   * Advanced Peripherals
   * Ender IO
 
+## Magic
+  * Reactive Alchemy
+
 ## Weaponry and Armor
   * Simply Swords
   * Better Combat
@@ -31,7 +34,7 @@
   * Biomes o Plenty
   * Structory
   * Ad Astra
-  * Blood and Madness
+  * Darkest Souls
 
 ## Utility and QoL
   * Cooking for Blockheads
