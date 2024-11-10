@@ -101,6 +101,6 @@
   * Waystones
   * Elevators (both entity and block)
 
-| Mutant | Sherman | Sonic | Withering | Corgo | Ali |
-| :----: | :-----: | :---: | :-------: | :---: | :---: |
-| 5      | 2       | 5     | 5         | TBD   | TBD   |
+| Mutant | Sherman | Sonic | Withering | Corgo | Ali | Ham |
+| :----: | :-----: | :---: | :-------: | :---: | :---: | :---: |
+| 5      | 2       | 5     | 5         | TBD   | TBD   | TBD   |
