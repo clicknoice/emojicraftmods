@@ -112,6 +112,7 @@
   * Framed Blocks
   * Create Deco (**H**)
   * Corail Woodcutter (**A**)
+  * Macaw's Full Suite
 
 ## Transportation
   * Waystones
