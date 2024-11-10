@@ -48,6 +48,7 @@
   * Ad Astra
   * Darkest Souls
   * Aquaculture
+  * Dungeon Crawl
 
 ## Utility and QoL
   * Cooking for Blockheads
