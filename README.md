@@ -44,6 +44,9 @@
   * Better Combat
   * Enigmatic Legacy (**W**)
   * Marium's Soulslike Weaponry (**S**)
+  * Tac Zero
+  * Epic Knights: Shields, Armor and Weapons (**C**)
+  * Fibers' Guns Pack for TacZ (**C**)
 
 ## Adventure and Exploration
   * Yungs full suite (excluding caves)
@@ -60,6 +63,7 @@
   * Mowzie's Mobs (**M**)
   * Reliquary Reincarnations (**M**)
   * Minecolonies (**A**)
+  * Paragliders (**C**)
 
 ## Utility and QoL
   * Cooking for Blockheads
@@ -87,6 +91,7 @@
   * Pam's Harvestcraft 2 (**S**)
   * Builders Wands
   * Trash Cans (flux, items, fluid etc...)
+  * Relics: Artifacts compat
 
 ## Storage
   * Sophisticated Storage
@@ -114,7 +119,7 @@
 
 | Mutant | Sherman | Sonic | Withering | Corgo | Ali | Ham |
 | :----: | :-----: | :---: | :-------: | :---: | :---: | :---: |
-| 4      | 2       | 5     | 5         | TBD   | 4  | 3  |
+| 4      | 2       | 5     | 5         | 4  | 4  | 3  |
 
 # Legend
 
