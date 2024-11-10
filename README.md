@@ -16,6 +16,7 @@
   * Extreme Reactors
   * CC: Tweaked
   * Advanced Peripherals
+  * Ender IO
 
 ## Weaponry and Armor
   * Simply Swords
@@ -29,6 +30,8 @@
   * Lootr
   * Biomes o Plenty
   * Structory
+  * Ad Astra
+  * Blood and Madness
 
 ## Utility and QoL
   * Cooking for Blockheads
