@@ -1,6 +1,6 @@
 # testing
 
-Tech:
+## Tech:
   *Mekanism
   *Mekanism Generators
   *Thermal Series (all)
@@ -14,13 +14,13 @@ Tech:
   *Applied Flux (allows power storage in ME system)
   *Extreme Reactors
 
-Adventure and Exploration:
+## Adventure and Exploration:
   *Yungs full suite (excluding caves)
   *Alex's Mobs
   *Cataclysm
   *Artifacts
 
-Utility and QoL
+## Utility and QoL
   *Cooking for Blockheads
   *JEI
   *Jade & Jade Additions
@@ -30,7 +30,7 @@ Utility and QoL
   *Oculus (preloaded shaders not the VR headset)
   *Embeddium
 
-Storage
+## Storage
   *Sophisticated Storage
   *Sophisticated Backpacks
 
