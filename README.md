@@ -113,10 +113,10 @@
 
 # Legend
 
-(M) = Mutant
-(SH) = Sherman
-(S) = Sonic
-(W) = Withering
-(C) = Corgo
-(A) = Ali
-(H) = Ham
+(M) = Mutant \
+(SH) = Sherman \
+(S) = Sonic \
+(W) = Withering \
+(C) = Corgo \
+(A) = Ali \ 
+(H) = Ham \
