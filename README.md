@@ -61,6 +61,7 @@
   * Chipped
   * Handcrafted
   * Builders Delight
+  * Chisel & Bits
 
 ## Transportation
   * Waystones
