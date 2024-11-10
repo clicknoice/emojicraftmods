@@ -23,6 +23,12 @@
 
 ## Magic
   * Reactive Alchemy
+  * Apotheosis
+  * Apothic Attributes
+  * Mahou Tsukai
+  * Occultism
+  * Ars Noveau
+  * Forbidden and Arcanus
 
 ## Weaponry and Armor
   * Simply Swords
