@@ -1,5 +1,5 @@
 Tech:
-  *Mekanism
+  '*'Mekanism
   *Mekanism Generators
   *Thermal Series (all)
   *Industrial Foregoing
