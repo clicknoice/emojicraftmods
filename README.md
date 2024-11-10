@@ -21,6 +21,8 @@
   * Create Crafts and Additions (**H**)
   * Create: New Age
   * XNet (**H**)
+  * Pneumaticraft
+  * Productive Bees (**A**)
 
 ## Dimensions
   * Twilight Forest
@@ -57,11 +59,13 @@
   * Dungeon Crawl
   * Mowzie's Mobs (**M**)
   * Reliquary Reincarnations (**M**)
+  * Minecolonies (**A**)
 
 ## Utility and QoL
   * Cooking for Blockheads
   * JEI
   * Jade & Jade Additions
+  * Jade Colonies (**A**)
   * Mouse Tweaks
   * Polymorph
   * Vivecraft
@@ -102,6 +106,7 @@
   * Tabletop Craft (**S**)
   * Framed Blocks
   * Create Deco (**H**)
+  * Corail Woodcutter (**A**)
 
 ## Transportation
   * Waystones
@@ -109,7 +114,7 @@
 
 | Mutant | Sherman | Sonic | Withering | Corgo | Ali | Ham |
 | :----: | :-----: | :---: | :-------: | :---: | :---: | :---: |
-| 4      | 2       | 5     | 5         | TBD   | TBD   | 3  |
+| 4      | 2       | 5     | 5         | TBD   | 4  | 3  |
 
 # Legend
 
