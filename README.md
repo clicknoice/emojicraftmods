@@ -30,10 +30,12 @@
   * Occultism
   * Ars Noveau
   * Forbidden and Arcanus
+  * Iron's Spells 'n Spellbooks
 
 ## Weaponry and Armor
   * Simply Swords
   * Better Combat
+  * Enigmatic Legacy
 
 ## Adventure and Exploration
   * Yungs full suite (excluding caves)
@@ -45,6 +47,7 @@
   * Structory
   * Ad Astra
   * Darkest Souls
+  * Aquaculture
 
 ## Utility and QoL
   * Cooking for Blockheads
@@ -63,14 +66,18 @@
   * Fast Furnace
   * Fast Workbench
   * Mob Grind Utils
-  * Farmer's Delight
+  * Farmer's Delight (various compatability mods)
   * Etched
   * Touhou Little Maid
+  * Corpse
+  * Blue Archive Halos
+  * Pam's Harvestcraft 2
 
 ## Storage
   * Sophisticated Storage
   * Sophisticated Backpacks
   * Storage Drawers
+  * Ender Storage
 
 ## Decorative Blocks
   * Rechiseled
@@ -81,6 +88,8 @@
   * Handcrafted
   * Builders Delight
   * Chisel & Bits
+  * Tabletop Craft
+  * Framed Blocks
 
 ## Transportation
   * Waystones
