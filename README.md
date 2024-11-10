@@ -109,7 +109,7 @@
 
 | Mutant | Sherman | Sonic | Withering | Corgo | Ali | Ham |
 | :----: | :-----: | :---: | :-------: | :---: | :---: | :---: |
-| 5      | 2       | 5     | 5         | TBD   | TBD   | 3  |
+| 4      | 2       | 5     | 5         | TBD   | TBD   | 3  |
 
 # Legend
 
