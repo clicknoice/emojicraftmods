@@ -92,6 +92,7 @@
   * Builders Wands
   * Trash Cans (flux, items, fluid etc...)
   * Relics: Artifacts compat
+  * Baubly Heart Containers
 
 ## Storage
   * Sophisticated Storage
