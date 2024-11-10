@@ -18,6 +18,9 @@
   * Advanced Peripherals
   * Ender IO
 
+## Dimensions
+  * Twilight Forest
+
 ## Magic
   * Reactive Alchemy
 
@@ -52,7 +55,6 @@
   * Luggage
   * Fast Furnace
   * Fast Workbench
-  * 3D Skin Layers
 
 ## Storage
   * Sophisticated Storage
