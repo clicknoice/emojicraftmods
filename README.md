@@ -18,27 +18,30 @@
   * Advanced Peripherals
   * Ender IO
   * Cyclic
+  * Create Crafts and Additions (**H**)
+  * Create: New Age
+  * XNet (**H**)
 
 ## Dimensions
   * Twilight Forest
-  * Dimensional Pockets 2 (M)
-  * Lands of Icaria (M)
+  * Dimensional Pockets 2 (**M**)
+  * Lands of Icaria (**M**)
 
 ## Magic
-  * Reactive Alchemy (W)
+  * Reactive Alchemy (**W**)
   * Apotheosis
   * Apothic Attributes 
   * Mahou Tsukai
-  * Occultism (W)
+  * Occultism (**W**)
   * Ars Noveau
   * Forbidden and Arcanus
-  * Iron's Spells 'n Spellbooks (S)
+  * Iron's Spells 'n Spellbooks (**S**)
 
 ## Weaponry and Armor
   * Simply Swords
   * Better Combat
-  * Enigmatic Legacy (W)
-  * Marium's Soulslike Weaponry (S)
+  * Enigmatic Legacy (**W**)
+  * Marium's Soulslike Weaponry (**S**)
 
 ## Adventure and Exploration
   * Yungs full suite (excluding caves)
@@ -48,12 +51,12 @@
   * Lootr
   * Biomes o Plenty
   * Structory
-  * Ad Astra (SH)
-  * Darkest Souls (SH)
-  * Aquaculture (W)
+  * Ad Astra (**SH**)
+  * Darkest Souls (**SH**)
+  * Aquaculture (**W**)
   * Dungeon Crawl
-  * Mowzie's Mobs (M)
-  * Reliquary Reincarnations (M)
+  * Mowzie's Mobs (**M**)
+  * Reliquary Reincarnations (**M**)
 
 ## Utility and QoL
   * Cooking for Blockheads
@@ -72,12 +75,14 @@
   * Fast Furnace
   * Fast Workbench
   * Mob Grind Utils
-  * Farmer's Delight (various compatability mods) (W)
+  * Farmer's Delight (various compatability mods) (**W**)
   * Etched
   * Touhou Little Maid
   * Corpse
-  * Blue Archive Halos (S)
-  * Pam's Harvestcraft 2 (S)
+  * Blue Archive Halos (**S**)
+  * Pam's Harvestcraft 2 (**S**)
+  * Builders Wands
+  * Trash Cans (flux, items, fluid etc...)
 
 ## Storage
   * Sophisticated Storage
@@ -94,8 +99,9 @@
   * Handcrafted
   * Builders Delight
   * Chisel & Bits
-  * Tabletop Craft (S)
+  * Tabletop Craft (**S**)
   * Framed Blocks
+  * Create Deco (**H**)
 
 ## Transportation
   * Waystones
@@ -103,4 +109,4 @@
 
 | Mutant | Sherman | Sonic | Withering | Corgo | Ali | Ham |
 | :----: | :-----: | :---: | :-------: | :---: | :---: | :---: |
-| 5      | 2       | 5     | 5         | TBD   | TBD   | TBD   |
+| 5      | 2       | 5     | 5         | TBD   | TBD   | 3  |
