@@ -62,6 +62,8 @@
   * Fast Furnace
   * Fast Workbench
   * Mob Grind Utils
+  * Farmer's Delight
+  * Etched
 
 ## Storage
   * Sophisticated Storage
