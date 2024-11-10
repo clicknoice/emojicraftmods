@@ -1,4 +1,4 @@
-# testing
+# Modpack Mod List
 
 ## Tech
   * Mekanism
