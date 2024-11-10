@@ -110,3 +110,13 @@
 | Mutant | Sherman | Sonic | Withering | Corgo | Ali | Ham |
 | :----: | :-----: | :---: | :-------: | :---: | :---: | :---: |
 | 5      | 2       | 5     | 5         | TBD   | TBD   | 3  |
+
+# Legend
+
+(M) = Mutant
+(SH) = Sherman
+(S) = Sonic
+(W) = Withering
+(C) = Corgo
+(A) = Ali
+(H) = Ham
