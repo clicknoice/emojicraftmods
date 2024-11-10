@@ -118,5 +118,5 @@
 (S) = Sonic \
 (W) = Withering \
 (C) = Corgo \
-(A) = Ali \ 
+(A) = Ali \
 (H) = Ham \
