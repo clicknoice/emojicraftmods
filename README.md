@@ -64,6 +64,7 @@
   * Mob Grind Utils
   * Farmer's Delight
   * Etched
+  * Touhou Little Maid
 
 ## Storage
   * Sophisticated Storage
