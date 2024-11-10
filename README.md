@@ -55,6 +55,7 @@
   * Luggage
   * Fast Furnace
   * Fast Workbench
+  * Mob Grind Utils
 
 ## Storage
   * Sophisticated Storage
